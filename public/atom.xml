@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Chobits</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://chobits01.gitee.io/"/>
+  <updated>2020-05-05T10:41:19.756Z</updated>
+  <id>http://chobits01.gitee.io/</id>
+  
+  <author>
+    <name>RIKU</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://chobits01.gitee.io/posts/3eeb.html"/>
+    <id>http://chobits01.gitee.io/posts/3eeb.html</id>
+    <published>2019-12-07T14:15:57.000Z</published>
+    <updated>2020-05-05T10:41:19.756Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="hello-world" scheme="http://chobits01.gitee.io/categories/hello-world/"/>
+    
+    
+      <category term="hello-world" scheme="http://chobits01.gitee.io/tags/hello-world/"/>
+    
+  </entry>
+  
+</feed>
